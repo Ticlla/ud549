@@ -15,5 +15,13 @@ describe('Unit test - Prueba', function() {
 		it('should behave...', function() {
 			expect(true).toBe(false);
 		});
+		describe('Name of the group', function() {
+			it('should behave...', function() {
+				
+			});
+			it('should behave...', function() {
+				
+			});
+		});
 	});
 });
