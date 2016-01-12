@@ -1,27 +1,13 @@
-describe('Unit test - Prueba', function() {
-	it('should agragar un elemnto a la l', function() {
-		expect(true).toBe(true);
-	});
-	it('should behave...', function() {
-		expect(true).toBe(false);
-	});
-	it('should behave...', function() {
-		expect(true).toBe(true);
-	});
-	describe('Unit test - Prueba Fucntion', function() {
-		it('should behave...', function() {
-			expect(true).toBe(true);
+describe('#Prueba', function() {
+	describe('Fucntionality 1', function() {
+		it('function1', function() {
+			pending("not yet implemented");
 		});
-		it('should behave...', function() {
-			expect(true).toBe(false);
+		it('function2', function() {
+			pending("not yet implemented");
 		});
-		describe('Name of the group', function() {
-			it('should behave...', function() {
-				
-			});
-			it('should behave...', function() {
-				
-			});
+		xit('function3', function() {
+			
 		});
 	});
 });
